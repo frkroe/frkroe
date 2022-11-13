@@ -1,16 +1,16 @@
-### Hi there 👋
+# ✨ _Welcome to my GitHub_ ✨
 
-<!--
-**frkroe/frkroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some facts about me 👋
 
-Here are some ideas to get you started:
+- 👩🏽‍🦱 My name is Franzi and I'm from Germany
+- 🔭 I’m currently studying a Master in Big Data Analytics at [EDEM](https://edem.eu/) in Valencia, Spain
+- 👯 I’m looking to collaborate on some fancy Data Projects
+- 💬 Contact me in German, English or Spanish
+- 📫 How to reach me: Contact me on [LinkedIn](https://linkedin.com/in/franziska-sophie-kroeger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects 📚
+- 🎓 My transcripts and exercises from class
+- 🗳️ My graded deliverables for the Master's degree
+- 🤝 My collaboration on Data Projects
+
+
